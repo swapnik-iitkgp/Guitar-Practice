@@ -5,7 +5,6 @@ This project includes a **Guitar Practice** application and an **EXE generator**
 ## Files  
 - **`guitar_practice.py`** - Main script for the Guitar Practice app.  
 - **`exe_generator.py`** - Script to generate an executable using `PyInstaller`.  
-- **`GuitarPractice.spec`** - PyInstaller spec file for customizing the EXE build.  
 - **`music_guitar.ico`** - Icon file for the application.  
 - **`requirements.txt`** - List of dependencies needed to run the project.  
 
